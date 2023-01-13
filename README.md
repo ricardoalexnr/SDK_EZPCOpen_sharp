@@ -1,7 +1,4 @@
 # SDK_EZPCOpen_sharp
-287 / 5.000 Resultados de tradução Resultado da tradução Project for EZPCOpen SDK in C#, based on the original in C++, for version v5.1.13_build20230104.
-
-
 Project for EZPCOpen SDK in C#, based on the original in C++, for version v5.1.13_build20230104.
 
 I'm sharing this because there is no official C# version of the SDK originally for c++, in order to help!
